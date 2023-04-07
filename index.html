@@ -168,7 +168,6 @@
     <!-- left box for logo -->
     <div class="left">
       <img src="image/wordpress-png-icon (1).png" class="imag">
-      <h1>BLOG</h1>
 
     </div>
 
