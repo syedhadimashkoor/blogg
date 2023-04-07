@@ -225,7 +225,7 @@
     
 
 
-  <"div style='text-align:right'">
+  <div class="bottom-container">
     <a class="footer" href="index.html" style="color: rgb(204, 81, 9);">My Blog</a>
     <p>Powered By<a class="footer" href="https://wordpress.org/">Wordpress</a></p>
 
