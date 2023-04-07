@@ -172,9 +172,9 @@
     </div>
 
     <ul class="navbar">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="#">Blog</a></li>
-      <li><a href="sample.html">Sample Page</a></li>
+      <li><a style="text-decoration:none" href="index.html">Home</a></li>
+      <li><a style="text-decoration:none" href="#">Blog</a></li>
+      <li><a style="text-decoration:none" href="sample.html">Sample Page</a></li> 
     </ul>
 
     <img src="image/image-1-2.png" class="img">
